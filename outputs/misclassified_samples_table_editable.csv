@@ -1,0 +1,10 @@
+sample_number,true_label,predicted_label,confidence,possible_reason_for_error
+1,kaya_toast,roti_canai,0.9669,Similar visual appearance
+2,laksa,nasi_lemak,0.6667,Poor lighting
+3,roti_canai,nasi_lemak,0.7354,Background clutter
+4,roti_canai,satay,0.3167,Object partially hidden
+5,satay,nasi_lemak,0.5276,Unclear food shape
+6,satay,nasi_lemak,0.3252,Low image quality
+7,satay,laksa,0.759,Similar visual appearance
+8,satay,nasi_lemak,0.5693,Poor lighting
+9,satay,kaya_toast,0.6972,Background clutter

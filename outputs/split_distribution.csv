@@ -1,0 +1,16 @@
+class,split,count
+nasi_lemak,train,105
+nasi_lemak,val,22
+nasi_lemak,test,23
+roti_canai,train,105
+roti_canai,val,22
+roti_canai,test,23
+satay,train,105
+satay,val,22
+satay,test,23
+laksa,train,105
+laksa,val,22
+laksa,test,23
+kaya_toast,train,105
+kaya_toast,val,22
+kaya_toast,test,23

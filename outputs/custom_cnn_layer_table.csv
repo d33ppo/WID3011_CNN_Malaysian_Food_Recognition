@@ -1,0 +1,24 @@
+layer_or_block_name,output_shape,parameters
+input_image,Multiple/Unknown,0
+rescaling,Multiple/Unknown,0
+data_augmentation,"(1, 224, 224, 3)",0
+block1_conv,Multiple/Unknown,864
+block1_bn,Multiple/Unknown,128
+block1_relu,Multiple/Unknown,0
+block1_pool,Multiple/Unknown,0
+block2_conv,Multiple/Unknown,18432
+block2_bn,Multiple/Unknown,256
+block2_relu,Multiple/Unknown,0
+block2_pool,Multiple/Unknown,0
+block3_conv,Multiple/Unknown,73728
+block3_bn,Multiple/Unknown,512
+block3_relu,Multiple/Unknown,0
+block3_pool,Multiple/Unknown,0
+block4_conv,Multiple/Unknown,294912
+block4_bn,Multiple/Unknown,1024
+block4_relu,Multiple/Unknown,0
+block4_pool,Multiple/Unknown,0
+global_average_pooling,Multiple/Unknown,0
+dense_256,Multiple/Unknown,65792
+dropout,Multiple/Unknown,0
+predictions,Multiple/Unknown,1285
